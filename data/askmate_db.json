@@ -1,0 +1,115 @@
+{
+  "business": {
+    "businessId": "default",
+    "name": "ASKMATE",
+    "category": "Assignment Ordering Platform",
+    "welcomeMessage": "Rate your recent assignment order, turnaround speed, and delivery quality. Your feedback helps us keep learning easy and effective!",
+    "googleReviewUrl": "https://www.google.com/search?q=ASKMATE+reviews",
+    "brandColor": "#0f172a",
+    "logoUrl": "",
+    "positiveThreshold": 8,
+    "neutralThreshold": 5,
+    "updatedAt": "2026-10-10T08:14:00.000Z"
+  },
+  "admin": {
+    "salt": "f1b554b57f0a6890dd19100fd5f5488e",
+    "passwordHash": "19df31136e4ae7d4102af3b2cd0f16aa1915138bc677e4b58862eabd9e0ceda58dbc66e5bfb0929fb699887aa7db4d7b700ff3e8e87fd692634f9dd40fa28240",
+    "tokens": [
+      {
+        "token": "df95a871430b30d4152405f5b4951dd476c6d7dfc161ad2b9422561f7c9a1911",
+        "expiresAt": 1792224489481
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "id": "rev_1791619705648_b46e1cc1",
+      "businessId": "default",
+      "rating": 10,
+      "reviewText": "Sensational coffee and warm, welcoming staff. The atmosphere was calm and comfortable, easily the best spot in the neighborhood!",
+      "customerName": "Marcus Vance",
+      "createdAt": "2026-10-10T08:08:25.648Z",
+      "source": "nfc",
+      "aiAssisted": true,
+      "sentiment": "positive"
+    },
+    {
+      "id": "rev_1791619705649_6f63e4a9",
+      "businessId": "default",
+      "rating": 9,
+      "reviewText": "Really great experience overall. Prompt service, excellent quality, and lovely seating. Will definitely return with friends.",
+      "customerName": "Sophia Lin",
+      "createdAt": "2026-10-10T08:08:25.649Z",
+      "source": "qr",
+      "aiAssisted": true,
+      "sentiment": "positive"
+    },
+    {
+      "id": "rev_1791619705649_3249ca7e",
+      "businessId": "default",
+      "rating": 6,
+      "reviewText": "Fair and pleasant visit. The counter service was quick, but it was slightly crowded with limited tables during the rush.",
+      "customerName": "David K.",
+      "createdAt": "2026-10-10T08:08:25.649Z",
+      "source": "direct",
+      "aiAssisted": false,
+      "sentiment": "neutral"
+    },
+    {
+      "id": "rev_1791619705649_409c5f21",
+      "businessId": "default",
+      "rating": 8,
+      "reviewText": "Very good presentation and delicious seasonal drinks. Everything was handled cleanly and courteously.",
+      "customerName": "Elena Rostova",
+      "createdAt": "2026-10-10T08:08:25.649Z",
+      "source": "qr",
+      "aiAssisted": true,
+      "sentiment": "positive"
+    },
+    {
+      "id": "rev_1791619705649_3ddfc86e",
+      "businessId": "default",
+      "rating": 3,
+      "reviewText": "The waiting time was longer than expected and my order was slightly delayed. Hope the staff coordination improves.",
+      "customerName": "Alex Thorne",
+      "createdAt": "2026-10-10T08:08:25.649Z",
+      "source": "nfc",
+      "aiAssisted": false,
+      "sentiment": "negative"
+    },
+    {
+      "id": "rev_1791619869443_bf299c72",
+      "businessId": "default",
+      "rating": 8,
+      "reviewText": "Pleasantly impressed with the level of care and service. Everything was handled cleanly and courteously. Looking forward to coming back.",
+      "createdAt": "2026-10-10T08:11:09.443Z",
+      "source": "direct",
+      "aiAssisted": false,
+      "sentiment": "positive"
+    },
+    {
+      "id": "rev_1791620208130_2fa61bbc",
+      "businessId": "default",
+      "rating": 9,
+      "reviewText": "Outstanding academic assistance from start to finish! My assignment was completed well ahead of the deadline with thorough research, clean citations, and crystal-clear step-by-step explanations. Truly makes learning easy!",
+      "createdAt": "2026-10-10T08:16:48.130Z",
+      "source": "direct",
+      "aiAssisted": false,
+      "sentiment": "positive"
+    },
+    {
+      "id": "rev_1791620816829_aa9e0ea2",
+      "businessId": "default",
+      "rating": 10,
+      "reviewText": "Outstanding coursework helper tool! ASKMATE made my engineering assignment completely stress-free with quick turnaround and step-by-step clear solutions. LEARN | EASY!",
+      "customerName": "Devon Brooks",
+      "createdAt": "2026-10-10T08:26:56.829Z",
+      "source": "direct",
+      "aiAssisted": true,
+      "sentiment": "positive",
+      "cloudSyncStatus": "synced",
+      "cloudStorageId": "gcloud_ds_1791620816829_91e12d84",
+      "cloudSyncTimestamp": "2026-10-10T08:26:56.829Z"
+    }
+  ]
+}

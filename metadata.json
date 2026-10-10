@@ -1,0 +1,6 @@
+{
+  "name": "ASKMATE — Assignment Ordering Platform | LEARN | EASY",
+  "description": "Official review and assignment ordering platform for ASKMATE. Fast turnaround, transparent 10-star student feedback. Tagline: LEARN | EASY.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
